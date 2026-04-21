@@ -1,0 +1,14 @@
+path: C:\Users\Michael\git\FH\Candy-Detector\Candy-Detector\candy_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Bounty
+  1: Galaxy
+  2: Galaxy_Caramel
+  3: Maltesers
+  4: Mars
+  5: Milkyway
+  6: Snickers
+  7: Twix
